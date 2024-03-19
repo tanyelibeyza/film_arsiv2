@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\bin\Debug\filmArsiv.exe.config
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\bin\Debug\filmArsiv.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\bin\Debug\filmArsiv.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.csproj.CopyComplete
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.exe
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.pdb
+C:\Users\User\Desktop\KORUMASIZ\beyzanur6\filmArsiv\filmArsiv\obj\Debug\filmArsiv.formelestiriler.resources
